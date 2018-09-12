@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10cda0de-4175-48b6-88f0-78f9f88b320e" name="Default" comment="" />
+    <list default="true" id="0f2b5be9-e11d-4a08-9c07-533a81c62162" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,10 +10,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Move.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Move.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <marker date="1536787815030" expanded="false" signature="6:78" ph="..." />
+                <marker date="1536787815030" expanded="true" signature="115:532" ph="{...}" />
+                <marker date="1536787815030" expanded="true" signature="119:185" ph="/* Use this for initialization ... */" />
+                <marker date="1536787815030" expanded="true" signature="364:530" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Move.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Move.cs" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -21,9 +47,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-414" />
-    <option name="y" value="89" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="60" />
+    <option name="y" value="59" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -61,17 +87,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="10cda0de-4175-48b6-88f0-78f9f88b320e" name="Default" comment="" />
-      <created>1536784826557</created>
+      <changelist id="0f2b5be9-e11d-4a08-9c07-533a81c62162" name="Default" comment="" />
+      <created>1536785214789</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536784826557</updated>
-      <workItem from="1536784829041" duration="347000" />
+      <updated>1536785214789</updated>
+      <workItem from="1536785217347" duration="2596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="347000" />
+    <option name="totallyTimeSpent" value="2596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -83,7 +109,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-414" y="89" width="1440" height="780" extended-state="0" />
+    <frame x="60" y="59" width="1440" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -102,10 +129,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -117,10 +144,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MyFirstScriptTH.cs">
+    <entry file="file://$PROJECT_DIR$/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="187">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1536787815030" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536787815030" expanded="true" signature="115:532" ph="{...}" />
+            <marker date="1536787815030" expanded="true" signature="119:185" ph="/* Use this for initialization ... */" />
+            <marker date="1536787815030" expanded="true" signature="364:530" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
