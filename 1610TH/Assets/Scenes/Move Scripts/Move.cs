@@ -6,7 +6,8 @@ public class Move : MonoBehaviour
 {
 
 	// Use this for initialization
-	//private void Update () {
+	//private void Update ()
+	//{
 		
 	//}
 	public CharacterController Character;
