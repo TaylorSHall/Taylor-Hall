@@ -5,7 +5,7 @@ using UnityEngine;
 public class AddMoney : MonoBehaviour
 {
 
-	public int Money = 10;
+	public int Money = 20;
 	
 	// Use this for initialization
 	public void AddMoreMoney (int money)
