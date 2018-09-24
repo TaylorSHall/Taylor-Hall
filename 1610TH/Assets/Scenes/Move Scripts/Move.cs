@@ -4,12 +4,6 @@ using UnityEngine;
 
 public class Move : MonoBehaviour 
 {
-
-	// Use this for initialization
-	//private void Update ()
-	//{
-		
-	//}
 	public CharacterController Character;
 	
 	public float Speed;
