@@ -10,6 +10,7 @@
         <e p="Scenes" t="Include">
           <e p="Move Scripts" t="Include">
             <e p="AddMoney.cs" t="Include" />
+            <e p="AddSwag.cs" t="Include" />
             <e p="AddValue.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="MouseDownBehavior.cs" t="Include" />
