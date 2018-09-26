@@ -7,20 +7,24 @@
       <e p="1610TH.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scenes" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Intro" t="Include">
+            <e p="Dog.cs" t="Include" />
+            <e p="MyFirstScriptTH.cs" t="Include" />
+          </e>
           <e p="Move Scripts" t="Include">
             <e p="AddMoney.cs" t="Include" />
             <e p="AddSwag.cs" t="Include" />
             <e p="AddValue.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
-            <e p="MouseDownBehavior.cs" t="Include" />
+            <e p="MouseEventBehavior.cs" t="Include" />
             <e p="Move.cs" t="Include" />
-            <e p="Variabes.cs" t="Include" />
+            <e p="Variables.cs" t="Include" />
           </e>
-        </e>
-        <e p="Scripts" t="Include">
-          <e p="Dog.cs" t="Include" />
-          <e p="MyFirstScriptTH.cs" t="Include" />
+          <e p="Powerup" t="Include">
+            <e p="Powerup.cs" t="Include" />
+            <e p="TriggerEventBehavior.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Variabes : MonoBehaviour
+public class Variables : MonoBehaviour
 {
 	public bool IsAWizard;
 	const int Swagcap = 100;
