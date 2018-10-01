@@ -17,11 +17,11 @@
             <e p="AddSwag.cs" t="Include" />
             <e p="AddValue.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
-            <e p="MouseEventBehavior.cs" t="Include" />
             <e p="Move.cs" t="Include" />
             <e p="Variables.cs" t="Include" />
           </e>
           <e p="Powerup" t="Include">
+            <e p="MouseEventBehavior.cs" t="Include" />
             <e p="Powerup.cs" t="Include" />
             <e p="TriggerEventBehavior.cs" t="Include" />
           </e>
