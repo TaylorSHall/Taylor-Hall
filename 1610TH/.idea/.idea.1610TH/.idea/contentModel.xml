@@ -29,6 +29,10 @@
             <e p="PowerupID.cs" t="Include" />
             <e p="TriggerEventBehavior.cs" t="Include" />
           </e>
+          <e p="Prefabs" t="Include">
+            <e p="DestroyObject.cs" t="Include" />
+            <e p="Instancing.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
