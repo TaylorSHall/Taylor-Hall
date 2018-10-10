@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 
-public class DestroyObject : MonoBehaviour {
+public class DestroyObject : MonoBehaviour 
+{
 
 	IEnumerator Start () 
 	{
