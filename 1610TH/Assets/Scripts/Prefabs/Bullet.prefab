@@ -22,7 +22,6 @@ GameObject:
   - component: {fileID: 33418369759593438}
   - component: {fileID: 23977914539941456}
   - component: {fileID: 135395226988027412}
-  - component: {fileID: 114397402470405556}
   - component: {fileID: 114879475890942506}
   m_Layer: 0
   m_Name: Bullet
@@ -86,18 +85,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1804695889805190}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &114397402470405556
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1804695889805190}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4257a5cf41d5f724cb3a712aa71a33fc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Instance: {fileID: 0}
 --- !u!114 &114879475890942506
 MonoBehaviour:
   m_ObjectHideFlags: 1
