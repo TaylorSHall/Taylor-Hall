@@ -50,30 +50,31 @@
     <session id="-578284102">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.36" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1311" />
+          <entry key="cs" value="1616" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1311" />
+          <entry key="C#" value="1616" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -122,35 +123,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/Instancing.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state>
               <folding>
-                <marker date="1539032469830" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539032469830" expanded="true" signature="119:391" ph="{...}" />
-                <marker date="1539032469830" expanded="true" signature="201:383" ph="{...}" />
-                <marker date="1539032469830" expanded="true" signature="306:380" ph="{...}" />
+                <marker date="1537411242588" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537411242588" expanded="true" signature="114:535" ph="{...}" />
+                <marker date="1537411242588" expanded="true" signature="119:188" ph="/* Use this for initialization ... */" />
+                <marker date="1537411242588" expanded="true" signature="367:533" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="-123">
               <folding>
-                <marker date="1539205509070" expanded="false" signature="6:97" ph="..." />
-                <marker date="1539205509070" expanded="true" signature="185:558" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="368:403" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="455:488" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="534:555" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="630:853" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="694:851" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="888:1174" ph="{...}" />
-                <marker date="1539205509070" expanded="true" signature="912:1172" ph="{...}" />
+                <marker date="1538950651932" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538950651932" expanded="true" signature="123:1011" ph="{...}" />
+                <marker date="1538950651932" expanded="true" signature="409:467" ph="{...}" />
+                <marker date="1538950651932" expanded="true" signature="521:1009" ph="{...}" />
+                <marker date="1538950651932" expanded="true" signature="601:886" ph="{...}" />
+                <marker date="1538950651932" expanded="true" signature="840:878" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Lava.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <marker date="1539316715693" expanded="true" signature="6:142" ph="..." />
+                <marker date="1539316715693" expanded="true" signature="177:294" ph="{...}" />
+                <marker date="1539316715693" expanded="true" signature="268:292" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -171,17 +181,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalVars.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/Instancing.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding>
-                <marker date="1539206076557" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539206076557" expanded="true" signature="118:515" ph="{...}" />
-                <marker date="1539206076557" expanded="true" signature="227:349" ph="{...}" />
-                <marker date="1539206076557" expanded="true" signature="434:513" ph="{...}" />
-                <marker date="1539206076557" expanded="true" signature="473:510" ph="/* Name = &quot;Fred&quot;; ... */" />
+                <marker date="1539032469830" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539032469830" expanded="true" signature="119:391" ph="{...}" />
+                <marker date="1539032469830" expanded="true" signature="201:383" ph="{...}" />
+                <marker date="1539032469830" expanded="true" signature="306:380" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -197,15 +206,18 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/PowerupID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShapeID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lava.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/PowerupID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/Powerup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -230,6 +242,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalBars.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalVars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Prefabs/ShapeID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShapeID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lava.cs" />
       </list>
     </option>
   </component>
@@ -239,10 +254,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="120" />
-    <option name="width" value="1616" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-56" />
+    <option name="y" value="-33" />
+    <option name="width" value="1617" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -251,9 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -272,6 +284,9 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,12 +346,13 @@
       <workItem from="1538952383874" duration="598000" />
       <workItem from="1539031294696" duration="3002000" />
       <workItem from="1539200719173" duration="142000" />
-      <workItem from="1539203914997" duration="2667000" />
+      <workItem from="1539203914997" duration="3262000" />
+      <workItem from="1539315102969" duration="1611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27501000" />
+    <option name="totallyTimeSpent" value="29707000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,10 +364,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="80" width="1077" height="496" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28810227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24210526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -420,44 +436,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/Destroy.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
-          <folding>
-            <marker date="1538950651932" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538950651932" expanded="true" signature="123:1011" ph="{...}" />
-            <marker date="1538950651932" expanded="true" signature="409:467" ph="{...}" />
-            <marker date="1538950651932" expanded="true" signature="521:1009" ph="{...}" />
-            <marker date="1538950651932" expanded="true" signature="601:886" ph="{...}" />
-            <marker date="1538950651932" expanded="true" signature="840:878" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/Powerup.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalBars.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalVars.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <marker date="1537996805109" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537996805109" expanded="true" signature="137:385" ph="{...}" />
-            <marker date="1537996805109" expanded="true" signature="297:381" ph="{...}" />
+            <marker date="1539206076557" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539206076557" expanded="true" signature="118:515" ph="{...}" />
+            <marker date="1539206076557" expanded="true" signature="227:349" ph="{...}" />
+            <marker date="1539206076557" expanded="true" signature="434:513" ph="{...}" />
+            <marker date="1539206076557" expanded="true" signature="473:510" ph="/* Name = &quot;Fred&quot;; ... */" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/PowerupID.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="30">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding>
-            <marker date="1538593637727" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538593637727" expanded="true" signature="118:399" ph="{...}" />
-            <marker date="1538593637727" expanded="true" signature="185:397" ph="{...}" />
-            <marker date="1538593637727" expanded="true" signature="201:238" ph="{...}" />
-            <marker date="1538593637727" expanded="true" signature="255:293" ph="{...}" />
-            <marker date="1538593637727" expanded="true" signature="308:344" ph="{...}" />
-            <marker date="1538593637727" expanded="true" signature="358:394" ph="{...}" />
+            <marker date="1539205509070" expanded="false" signature="6:97" ph="..." />
+            <marker date="1539205509070" expanded="true" signature="185:558" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="368:403" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="455:488" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="534:555" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="630:853" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="694:851" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="888:1174" ph="{...}" />
+            <marker date="1539205509070" expanded="true" signature="912:1172" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -481,10 +491,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/ShapeID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state>
           <folding>
             <marker date="1538429433672" expanded="false" signature="6:78" ph="..." />
             <marker date="1538429433672" expanded="true" signature="137:147" ph="{...}" />
@@ -492,27 +508,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalBars.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShapeID.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="150">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
-            <marker date="1539205509070" expanded="false" signature="6:97" ph="..." />
-            <marker date="1539205509070" expanded="true" signature="185:558" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="368:403" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="455:488" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="534:555" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="630:853" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="694:851" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="888:1174" ph="{...}" />
-            <marker date="1539205509070" expanded="true" signature="912:1172" ph="{...}" />
+            <marker date="1539315744910" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539315744910" expanded="true" signature="117:239" ph="{...}" />
+            <marker date="1539315744910" expanded="true" signature="121:237" ph="/* GameObject ... */" />
           </folding>
         </state>
       </provider>
@@ -530,6 +533,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <folding>
+            <marker date="1538950651932" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538950651932" expanded="true" signature="123:1011" ph="{...}" />
+            <marker date="1538950651932" expanded="true" signature="409:467" ph="{...}" />
+            <marker date="1538950651932" expanded="true" signature="521:1009" ph="{...}" />
+            <marker date="1538950651932" expanded="true" signature="601:886" ph="{...}" />
+            <marker date="1538950651932" expanded="true" signature="840:878" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/Move.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537411242588" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537411242588" expanded="true" signature="114:535" ph="{...}" />
+            <marker date="1537411242588" expanded="true" signature="119:188" ph="/* Use this for initialization ... */" />
+            <marker date="1537411242588" expanded="true" signature="367:533" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/PowerupID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <marker date="1538593637727" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538593637727" expanded="true" signature="118:399" ph="{...}" />
+            <marker date="1538593637727" expanded="true" signature="185:397" ph="{...}" />
+            <marker date="1538593637727" expanded="true" signature="201:238" ph="{...}" />
+            <marker date="1538593637727" expanded="true" signature="255:293" ph="{...}" />
+            <marker date="1538593637727" expanded="true" signature="308:344" ph="{...}" />
+            <marker date="1538593637727" expanded="true" signature="358:394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/DestroyObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -543,16 +588,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/LocalVars.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Lava.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <marker date="1539206076557" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539206076557" expanded="true" signature="118:515" ph="{...}" />
-            <marker date="1539206076557" expanded="true" signature="227:349" ph="{...}" />
-            <marker date="1539206076557" expanded="true" signature="434:513" ph="{...}" />
-            <marker date="1539206076557" expanded="true" signature="473:510" ph="/* Name = &quot;Fred&quot;; ... */" />
+            <marker date="1539316715693" expanded="true" signature="6:142" ph="..." />
+            <marker date="1539316715693" expanded="true" signature="177:294" ph="{...}" />
+            <marker date="1539316715693" expanded="true" signature="268:292" ph="{...}" />
           </folding>
         </state>
       </provider>

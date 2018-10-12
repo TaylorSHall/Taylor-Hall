@@ -14,6 +14,7 @@
             <e p="Dog.cs" t="Include" />
             <e p="MyFirstScriptTH.cs" t="Include" />
           </e>
+          <e p="Lava.cs" t="Include" />
           <e p="Move Scripts" t="Include">
             <e p="AddMoney.cs" t="Include" />
             <e p="AddSwag.cs" t="Include" />
@@ -35,6 +36,7 @@
             <e p="LocalVars.cs" t="Include" />
             <e p="WhatCanSeeIt.cs" t="Include" />
           </e>
+          <e p="ShapeID.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
