@@ -11,4 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 113f85e2a091308468f8a59ad1da363e, type: 3}
   m_Name: AvailableWeps
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: d6f3a38292f808342aba305cacc6458e, type: 2}
+  - {fileID: 11400000, guid: bcc3a7bd8ec9f8e479dbb0d7ae8ce45f, type: 2}
+  - {fileID: 11400000, guid: 5f3d289ff88d33a4683eee4847a5116e, type: 2}

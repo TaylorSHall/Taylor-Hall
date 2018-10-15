@@ -9,5 +9,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13508c948c4b92746b2c940c3ff58ee9, type: 3}
-  m_Name: CORRL
+  m_Name: Corrl
   m_EditorClassIdentifier: 
