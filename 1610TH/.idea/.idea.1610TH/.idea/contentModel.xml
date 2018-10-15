@@ -15,6 +15,10 @@
             <e p="MyFirstScriptTH.cs" t="Include" />
           </e>
           <e p="Lava.cs" t="Include" />
+          <e p="List" t="Include">
+            <e p="AddToCollection.cs" t="Include" />
+            <e p="ObjectCollection.cs" t="Include" />
+          </e>
           <e p="Move Scripts" t="Include">
             <e p="AddMoney.cs" t="Include" />
             <e p="AddSwag.cs" t="Include" />
