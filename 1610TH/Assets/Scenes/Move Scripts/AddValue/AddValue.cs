@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using UnityEngine.Events;
+using UnityEngine;
+
 
 [CreateAssetMenu]
 public class AddValue : ScriptableObject
