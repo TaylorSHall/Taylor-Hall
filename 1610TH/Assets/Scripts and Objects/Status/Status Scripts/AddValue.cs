@@ -6,7 +6,7 @@ namespace Scenes.Move_Scripts
     [CreateAssetMenu]
     public class AddValue : ScriptableObject
     {
-        public FloatData ValueObj;
+        public FloatData Data;
         public FloatData MaxValue;
         public FloatData MinValue;
     
@@ -16,63 +16,63 @@ namespace Scenes.Move_Scripts
     
     
         //ADD
-        public void AddValueToObj(FloatData data)
+        public void AddValueToObj(FloatData obj)
         {
-            ValueObj.Value += data.Value;
+            Data.Value += obj.Value;
         
-            if (ValueObj.Value >= MaxValue.Value)
+            if (Data.Value >= MaxValue.Value)
             {
                 EventMax.Invoke();
             }
 
-            if (ValueObj.Value <= MinValue.Value)
+            if (Data.Value <= MinValue.Value)
             {
                 EventMin.Invoke();
             }
         }
         //SUBTRACT
-        public void SubtractValueFromObj(FloatData data)
+        public void SubtractValueFromObj(FloatData obj)
         {
-            ValueObj.Value -= data.Value;
+            Data.Value -= obj.Value;
             
-            if (ValueObj.Value >= MaxValue.Value)
+            if (Data.Value >= MaxValue.Value)
             {
                 EventMax.Invoke();
             }
 
-            if (ValueObj.Value <= MinValue.Value)
+            if (Data.Value <= MinValue.Value)
             {
                 EventMin.Invoke();
             }
         }
         
         //MULTIPLY
-        public void MultiplyValueWithObj(FloatData data)
+        public void MultiplyValueWithObj(FloatData obj)
         {
-            ValueObj.Value *= data.Value;
+            Data.Value *= obj.Value;
             
-            if (ValueObj.Value >= MaxValue.Value)
+            if (Data.Value >= MaxValue.Value)
             {
                 EventMax.Invoke();
             }
 
-            if (ValueObj.Value <= MinValue.Value)
+            if (Data.Value <= MinValue.Value)
             {
                 EventMin.Invoke();
             }
         }
         
         //DIVIDE
-        public void DivideValueByObj(FloatData data)
+        public void DivideValueByObj(FloatData obj)
         {
-            ValueObj.Value /= data.Value;
+            Data.Value /= obj.Value;
             
-            if (ValueObj.Value >= MaxValue.Value)
+            if (Data.Value >= MaxValue.Value)
             {
                 EventMax.Invoke();
             }
 
-            if (ValueObj.Value <= MinValue.Value)
+            if (Data.Value <= MinValue.Value)
             {
                 EventMin.Invoke();
             }
