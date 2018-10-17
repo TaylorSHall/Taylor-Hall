@@ -12,7 +12,7 @@
     <session id="-578284102">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.opened" value="2" />
@@ -44,7 +44,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/AddSomeMoney.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -53,21 +53,6 @@
                 <marker date="1539795295834" expanded="true" signature="6:78" ph="..." />
                 <marker date="1539795295834" expanded="true" signature="121:273" ph="{...}" />
                 <marker date="1539795295834" expanded="true" signature="220:271" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/MouseEventBehavior.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding>
-                <marker date="1539795459341" expanded="false" signature="6:44" ph="..." />
-                <marker date="1539795459341" expanded="true" signature="94:270" ph="{...}" />
-                <marker date="1539795459341" expanded="true" signature="185:213" ph="{...}" />
-                <marker date="1539795459341" expanded="true" signature="240:266" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -112,7 +97,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/List/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/MouseEventBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/AddSomeMoney.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -195,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539745537360</updated>
       <workItem from="1539745546884" duration="1827000" />
-      <workItem from="1539793987396" duration="1471000" />
+      <workItem from="1539793987396" duration="1792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3298000" />
+    <option name="totallyTimeSpent" value="3619000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,7 +197,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -294,6 +277,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/MouseEventBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Move Scripts/AddSomeMoney.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -302,19 +292,6 @@
             <marker date="1539795295834" expanded="true" signature="6:78" ph="..." />
             <marker date="1539795295834" expanded="true" signature="121:273" ph="{...}" />
             <marker date="1539795295834" expanded="true" signature="220:271" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Powerup/MouseEventBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <marker date="1539795459341" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539795459341" expanded="true" signature="94:270" ph="{...}" />
-            <marker date="1539795459341" expanded="true" signature="185:213" ph="{...}" />
-            <marker date="1539795459341" expanded="true" signature="240:266" ph="{...}" />
           </folding>
         </state>
       </provider>
