@@ -29,7 +29,7 @@
             <e p="ObjectCollection.cs" t="Include" />
           </e>
           <e p="Move Scripts" t="Include">
-            <e p="AddMoney.cs" t="Include" />
+            <e p="AddSomeMoney.cs" t="Include" />
             <e p="AddSwag.cs" t="Include" />
             <e p="AddValue.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
@@ -38,7 +38,7 @@
           </e>
           <e p="NameID.cs" t="Include" />
           <e p="Powerup" t="Include">
-            <e p="MouseEventBehavior.cs" t="Include" />
+            <e p="MouseEventsBehavior.cs" t="Include" />
             <e p="Powerup.cs" t="Include" />
             <e p="PowerupID.cs" t="Include" />
             <e p="TriggerEventBehavior.cs" t="Include" />

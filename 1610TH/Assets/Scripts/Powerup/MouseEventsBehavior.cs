@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-public class MouseEventBehavior : MonoBehaviour
+public class MouseEventsBehavior : MonoBehaviour
 {
 	public UnityEvent MouseDown;
 	public UnityEvent MouseUp;
