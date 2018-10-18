@@ -39,6 +39,10 @@ public class Variables : MonoBehaviour
 		{
 			print("You're a Wizard, " + PlayerName + ".");
 		}
+		else //ELSE STATEMENT ADDITIONAL WORK
+		{
+			print(PlayerName + " is a muggle :(");
+		}
 	}
 	
 	// Update is called once per frame
