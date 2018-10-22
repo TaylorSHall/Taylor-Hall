@@ -5,23 +5,23 @@ using UnityEngine;
 public class CharacterMover : MonoBehaviour
 {
 
-	private CharacterController Controller;
+	private CharacterController Character;
 	
 	public float Gravity = 9.81f;
-	public float JumpSpeed = 3.0f;
-	public float MoveSpeed = 3.0f; //jumping speed is the same as moving speed
+	public float JumpSpeed;
+	public float MoveSpeed; //jumping speed is the same as moving speed
 	private Vector3 rotation;
 	private Vector3 position;
 	// Use this for initialization
 	void Start ()
 	{
-		Controller = GetComponent<CharacterController>();
+		Character = GetComponent<CharacterController>();
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Controller.isGrounded) //bool that is part of the character controller
+		if (Character.isGrounded) //bool that is part of the character controller
 		{
 			position.Set(0, 0, MoveSpeed * Input.GetAxis("Vertical"));
 			rotation.Set(0, Input.GetAxis("Horizontal"), 0);
@@ -35,6 +35,6 @@ public class CharacterMover : MonoBehaviour
 			
 		}
 		position.y -= Gravity * Time.deltaTime; // regular rate in Unity in Sec
-		Controller.Move(position * Time.deltaTime);
+		Character.Move(position * Time.deltaTime);
 	}
 }

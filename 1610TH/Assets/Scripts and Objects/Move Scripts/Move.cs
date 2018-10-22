@@ -8,6 +8,7 @@ public class Move : MonoBehaviour
 	
 	public float Speed;
 	public Vector3 MoveSpeed;
+	public float JumpSpeed;
 	public Vector3 RotateSpeed;
 	
 	// Update is called once per frame
@@ -16,6 +17,11 @@ public class Move : MonoBehaviour
 		//Movement of object controlled by arrow keys
 		MoveSpeed.x = Speed*Input.GetAxis("Horizontal");
 		MoveSpeed *= Time.deltaTime;
+		//Player Jumping
+		if (Input.GetButton("Jump"))
+		{
+			MoveSpeed.y = JumpSpeed;
+		}
 
 		Character.Move(MoveSpeed);
 	}
