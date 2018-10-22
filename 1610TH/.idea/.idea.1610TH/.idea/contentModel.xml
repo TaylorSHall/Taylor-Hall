@@ -8,10 +8,6 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Move Scripts" t="Include">
-          <e p="AddValue" t="Include">
-            <e p="AddMoney.cs" t="Include" />
-            <e p="AddValue.cs" t="Include" />
-          </e>
           <e p="MouseEventBehavior.cs" t="Include" />
         </e>
         <e p="Scripts and Objects" t="Include">
@@ -44,7 +40,15 @@
           </e>
           <e p="ShapeID.cs" t="Include" />
           <e p="Status" t="Include">
+            <e p="AddValue" t="Include">
+              <e p="AddMoney.cs" t="Include" />
+              <e p="AddValue.cs" t="Include" />
+            </e>
+            <e p="Death.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
+            <e p="PowerupTest" t="Include">
+              <e p="PTHealth.cs" t="Include" />
+            </e>
             <e p="Status Scripts" t="Include">
               <e p="AddSomeMoney.cs" t="Include" />
               <e p="AddSwag.cs" t="Include" />
