@@ -20,7 +20,9 @@ public class CharacterMover : MonoBehaviour
 	
 	// Update is called once per frame
 	void Update ()
-	{
+	{	
+		
+		
 		if (Character.isGrounded) //bool that is part of the character controller
 		{
 			position.Set(0, 0, MoveSpeed * Input.GetAxis("Vertical"));
@@ -34,7 +36,7 @@ public class CharacterMover : MonoBehaviour
 			}
 			
 		}
-		position.y -= Gravity * Time.deltaTime; // regular rate in Unity in Sec
-		Character.Move(position * Time.deltaTime);
+	position.y -= Gravity * Time.deltaTime; // regular rate in Unity in Sec
+    Character.Move(position * Time.deltaTime);
 	}
 }

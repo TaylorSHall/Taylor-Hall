@@ -46,8 +46,8 @@ public class Variables : MonoBehaviour
 	}
 	
 	// Update is called once per frame
-	void Update ()
-	{
-		transform.position = Location;
-	}
+	//void Update ()
+	//{
+	//	transform.position = Location;
+	//}
 }
