@@ -21,6 +21,9 @@
             <e p="AddToCollection.cs" t="Include" />
             <e p="ObjectCollection.cs" t="Include" />
           </e>
+          <e p="Loops" t="Include">
+            <e p="Loops.cs" t="Include" />
+          </e>
           <e p="Move Scripts" t="Include">
             <e p="CharacterMover.cs" t="Include" />
             <e p="Move.cs" t="Include" />
