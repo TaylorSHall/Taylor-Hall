@@ -59,6 +59,10 @@
             </e>
             <e p="Variables.cs" t="Include" />
           </e>
+          <e p="Switch and Enum" t="Include">
+            <e p="GameStates.cs" t="Include" />
+            <e p="SwitchStatements.cs" t="Include" />
+          </e>
           <e p="UpdateImageValue.cs" t="Include" />
         </e>
       </e>
