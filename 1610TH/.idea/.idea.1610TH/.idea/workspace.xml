@@ -12,15 +12,15 @@
     <session id="-578284102">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1088" />
+          <entry key="cs" value="1100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1088" />
+          <entry key="C#" value="1100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -167,15 +167,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1540415055160" expanded="true" signature="6:78" ph="..." />
-                <marker date="1540415055160" expanded="true" signature="114:439" ph="{...}" />
-                <marker date="1540415055160" expanded="true" signature="219:375" ph="{...}" />
-                <marker date="1540415055160" expanded="true" signature="286:314" ph="{...}" />
-                <marker date="1540415055160" expanded="true" signature="347:372" ph="{...}" />
-                <marker date="1540415055160" expanded="true" signature="430:437" ph="{...}" />
+                <marker date="1540437022637" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540437022637" expanded="true" signature="114:448" ph="{...}" />
+                <marker date="1540437022637" expanded="true" signature="219:384" ph="{...}" />
+                <marker date="1540437022637" expanded="true" signature="295:323" ph="{...}" />
+                <marker date="1540437022637" expanded="true" signature="356:381" ph="{...}" />
+                <marker date="1540437022637" expanded="true" signature="439:446" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -251,12 +251,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -311,12 +311,13 @@
       <workItem from="1540224153235" duration="596000" />
       <workItem from="1540240524140" duration="1961000" />
       <workItem from="1540242773106" duration="1128000" />
-      <workItem from="1540413512698" duration="1692000" />
+      <workItem from="1540413512698" duration="1740000" />
+      <workItem from="1540437005864" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12573000" />
+    <option name="totallyTimeSpent" value="13241000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,9 +330,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28582996" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29068825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -385,6 +385,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/PowerupTest/PTHealth.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/New Folder/Loops.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/Variables.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -473,6 +474,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1540243849005" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540243849005" expanded="true" signature="114:574" ph="{...}" />
+            <marker date="1540243849005" expanded="true" signature="320:572" ph="{...}" />
+            <marker date="1540243849005" expanded="true" signature="503:539" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -488,37 +502,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/New Folder/Loops.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <marker date="1540243849005" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540243849005" expanded="true" signature="114:574" ph="{...}" />
-            <marker date="1540243849005" expanded="true" signature="320:572" ph="{...}" />
-            <marker date="1540243849005" expanded="true" signature="503:539" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1540415055160" expanded="true" signature="6:78" ph="..." />
-            <marker date="1540415055160" expanded="true" signature="114:439" ph="{...}" />
-            <marker date="1540415055160" expanded="true" signature="219:375" ph="{...}" />
-            <marker date="1540415055160" expanded="true" signature="286:314" ph="{...}" />
-            <marker date="1540415055160" expanded="true" signature="347:372" ph="{...}" />
-            <marker date="1540415055160" expanded="true" signature="430:437" ph="{...}" />
+            <marker date="1540437022637" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540437022637" expanded="true" signature="114:448" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="219:384" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="295:323" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="356:381" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="439:446" ph="{...}" />
           </folding>
         </state>
       </provider>

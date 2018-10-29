@@ -11,7 +11,7 @@ public class Loops : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		for (int i = 0; i <= 50; i++) //(indexer, while, incrementer)
+		for (int i = 0; i < Names.Length; i++) //(indexer, while, incrementer)
 		{
 			print(Names[i]);
 		}
