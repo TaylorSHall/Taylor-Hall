@@ -5,6 +5,7 @@ public class BasicAI : MonoBehaviour
 {
 
 	private NavMeshAgent agent;
+	private Vector3 Center;
 	public Transform Destination;
 	void Start ()
 	{
@@ -14,5 +15,6 @@ public class BasicAI : MonoBehaviour
 	void Update ()
 	{
 		if (Destination != null) agent.destination = Destination.position; //AI will go WHEREVER it's told to go
+		//else if (Destination == null) agent.destination = 
 	}
 }
