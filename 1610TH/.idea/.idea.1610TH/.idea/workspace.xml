@@ -12,7 +12,7 @@
     <session id="-578284102">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
@@ -21,7 +21,8 @@
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="2" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3187" />
+          <entry key="cs" value="3188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3187" />
+          <entry key="C#" value="3188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -68,10 +69,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="330">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
               <folding>
-                <marker date="1541629363330" expanded="true" signature="6:143" ph="..." />
+                <marker date="1541629363330" expanded="false" signature="6:143" ph="..." />
                 <marker date="1541629363330" expanded="true" signature="185:607" ph="{...}" />
                 <marker date="1541629363330" expanded="true" signature="221:284" ph="/* public UnityEvent OnRepeat; ... */" />
                 <marker date="1541629363330" expanded="true" signature="416:603" ph="{...}" />
@@ -195,10 +196,10 @@
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,12 +262,13 @@
       <workItem from="1541453120579" duration="2467000" />
       <workItem from="1541571529417" duration="364000" />
       <workItem from="1541620302099" duration="5195000" />
-      <workItem from="1541736175471" duration="616000" />
+      <workItem from="1541736175471" duration="679000" />
+      <workItem from="1541995109303" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25858000" />
+    <option name="totallyTimeSpent" value="26618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,7 +283,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33360323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33927125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -457,10 +459,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <marker date="1541629363330" expanded="true" signature="6:143" ph="..." />
+            <marker date="1541629363330" expanded="false" signature="6:143" ph="..." />
             <marker date="1541629363330" expanded="true" signature="185:607" ph="{...}" />
             <marker date="1541629363330" expanded="true" signature="221:284" ph="/* public UnityEvent OnRepeat; ... */" />
             <marker date="1541629363330" expanded="true" signature="416:603" ph="{...}" />
