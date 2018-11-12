@@ -12,7 +12,7 @@
     <session id="-578284102">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
@@ -20,29 +20,29 @@
           <entry key="project.open.time.16" value="4" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.19" value="3" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="16" />
+          <entry key="cs" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="16" />
+          <entry key="C#" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3188" />
+          <entry key="cs" value="3265" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3188" />
+          <entry key="C#" value="3265" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -66,11 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state>
               <folding>
                 <marker date="1541629363330" expanded="false" signature="6:143" ph="..." />
                 <marker date="1541629363330" expanded="true" signature="185:607" ph="{...}" />
@@ -84,16 +83,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Prefabs/Instancing.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
               <folding>
-                <marker date="1539640035563" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539640035563" expanded="true" signature="119:391" ph="{...}" />
-                <marker date="1539640035563" expanded="true" signature="201:383" ph="{...}" />
-                <marker date="1539640035563" expanded="true" signature="306:380" ph="{...}" />
+                <marker date="1542058830901" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542058830901" expanded="true" signature="124:316" ph="{...}" />
+                <marker date="1542058830901" expanded="true" signature="153:248" ph="/* Use this for initialization ... */" />
+                <marker date="1542058830901" expanded="true" signature="265:314" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -141,15 +140,17 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Lava.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/PowerupTest/PTHealth.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/UpdateImageValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/PowerupStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/Status Scripts/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/NameID.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -172,6 +173,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/PowerupEnum.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs" />
       </list>
     </option>
   </component>
@@ -196,10 +198,10 @@
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,12 +265,13 @@
       <workItem from="1541571529417" duration="364000" />
       <workItem from="1541620302099" duration="5195000" />
       <workItem from="1541736175471" duration="679000" />
-      <workItem from="1541995109303" duration="697000" />
+      <workItem from="1541995109303" duration="815000" />
+      <workItem from="1542058323682" duration="1115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26618000" />
+    <option name="totallyTimeSpent" value="27851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -283,7 +286,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33927125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34493926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -461,6 +464,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539640035472" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539640035472" expanded="true" signature="137:147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <marker date="1541629363330" expanded="false" signature="6:143" ph="..." />
             <marker date="1541629363330" expanded="true" signature="185:607" ph="{...}" />
@@ -469,6 +488,19 @@
             <marker date="1541629363330" expanded="true" signature="434:600" ph="{...}" />
             <marker date="1541629363330" expanded="true" signature="548:567" ph="{...}" />
             <marker date="1541629363330" expanded="true" signature="575:596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <marker date="1542058830901" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542058830901" expanded="true" signature="124:316" ph="{...}" />
+            <marker date="1542058830901" expanded="true" signature="153:248" ph="/* Use this for initialization ... */" />
+            <marker date="1542058830901" expanded="true" signature="265:314" ph="{...}" />
           </folding>
         </state>
       </provider>

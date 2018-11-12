@@ -14,7 +14,10 @@
           <e p="AI" t="Include">
             <e p="BasicAI.cs" t="Include" />
           </e>
-          <e p="EventRepeat.cs" t="Include" />
+          <e p="EventRepeat" t="Include">
+            <e p="EventRepeat.cs" t="Include" />
+            <e p="PrintNameRepeat.cs" t="Include" />
+          </e>
           <e p="IfStatements.cs" t="Include" />
           <e p="Intro" t="Include">
             <e p="Dog.cs" t="Include" />
