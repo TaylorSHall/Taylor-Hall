@@ -17,22 +17,22 @@
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.16" value="4" />
+          <entry key="project.open.time.16" value="5" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="3" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="18" />
+          <entry key="cs" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="18" />
+          <entry key="C#" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -83,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -93,6 +93,35 @@
                 <marker date="1542058830901" expanded="true" signature="124:316" ph="{...}" />
                 <marker date="1542058830901" expanded="true" signature="153:248" ph="/* Use this for initialization ... */" />
                 <marker date="1542058830901" expanded="true" signature="265:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Powerup/MouseEventsBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <marker date="1539795459341" expanded="false" signature="6:44" ph="..." />
+                <marker date="1539795459341" expanded="true" signature="94:270" ph="{...}" />
+                <marker date="1539795459341" expanded="true" signature="185:213" ph="{...}" />
+                <marker date="1539795459341" expanded="true" signature="240:266" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Amin.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542233222919" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542233222919" expanded="true" signature="114:235" ph="{...}" />
+                <marker date="1542233222919" expanded="true" signature="164:171" ph="{...}" />
+                <marker date="1542233222919" expanded="true" signature="226:233" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -140,12 +169,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Lava.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Powerup/MouseEventsBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/PowerupTest/PTHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Status/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/UpdateImageValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Amin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/PowerupStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
@@ -267,11 +298,12 @@
       <workItem from="1541736175471" duration="679000" />
       <workItem from="1541995109303" duration="815000" />
       <workItem from="1542058323682" duration="1115000" />
+      <workItem from="1542232555938" duration="676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27851000" />
+    <option name="totallyTimeSpent" value="28527000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,8 +316,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34493926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35060728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -409,6 +442,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Prefabs/Instancing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -422,15 +466,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Prefabs/Instancing.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding>
-            <marker date="1539640035563" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539640035563" expanded="true" signature="119:391" ph="{...}" />
-            <marker date="1539640035563" expanded="true" signature="201:383" ph="{...}" />
-            <marker date="1539640035563" expanded="true" signature="306:380" ph="{...}" />
+            <marker date="1541629363330" expanded="false" signature="6:143" ph="..." />
+            <marker date="1541629363330" expanded="true" signature="185:607" ph="{...}" />
+            <marker date="1541629363330" expanded="true" signature="221:284" ph="/* public UnityEvent OnRepeat; ... */" />
+            <marker date="1541629363330" expanded="true" signature="416:603" ph="{...}" />
+            <marker date="1541629363330" expanded="true" signature="434:600" ph="{...}" />
+            <marker date="1541629363330" expanded="true" signature="548:567" ph="{...}" />
+            <marker date="1541629363330" expanded="true" signature="575:596" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -459,38 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/NameID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1539640035472" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539640035472" expanded="true" signature="137:147" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1541629363330" expanded="false" signature="6:143" ph="..." />
-            <marker date="1541629363330" expanded="true" signature="185:607" ph="{...}" />
-            <marker date="1541629363330" expanded="true" signature="221:284" ph="/* public UnityEvent OnRepeat; ... */" />
-            <marker date="1541629363330" expanded="true" signature="416:603" ph="{...}" />
-            <marker date="1541629363330" expanded="true" signature="434:600" ph="{...}" />
-            <marker date="1541629363330" expanded="true" signature="548:567" ph="{...}" />
-            <marker date="1541629363330" expanded="true" signature="575:596" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -500,6 +514,31 @@
             <marker date="1542058830901" expanded="true" signature="124:316" ph="{...}" />
             <marker date="1542058830901" expanded="true" signature="153:248" ph="/* Use this for initialization ... */" />
             <marker date="1542058830901" expanded="true" signature="265:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Powerup/MouseEventsBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <marker date="1539795459341" expanded="false" signature="6:44" ph="..." />
+            <marker date="1539795459341" expanded="true" signature="94:270" ph="{...}" />
+            <marker date="1539795459341" expanded="true" signature="185:213" ph="{...}" />
+            <marker date="1539795459341" expanded="true" signature="240:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Amin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542233222919" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542233222919" expanded="true" signature="114:235" ph="{...}" />
+            <marker date="1542233222919" expanded="true" signature="164:171" ph="{...}" />
+            <marker date="1542233222919" expanded="true" signature="226:233" ph="{...}" />
           </folding>
         </state>
       </provider>
