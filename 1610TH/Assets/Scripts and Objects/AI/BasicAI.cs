@@ -15,6 +15,6 @@ public class BasicAI : MonoBehaviour
 	void Update ()
 	{
 		if (Destination != null) agent.destination = Destination.position; //AI will go WHEREVER it's told to go
-		//else if (Destination == null) agent.destination = 
+		else if (Destination == null) print("Where do I go next?"); 
 	}
 }

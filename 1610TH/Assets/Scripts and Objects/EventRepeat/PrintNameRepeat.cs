@@ -14,6 +14,7 @@ public class PrintNameRepeat : MonoBehaviour
 	// Update is called once per frame
 	void Update () 
 	{
+		
 		print("Some people call me " + RepName);
 	}
 }
