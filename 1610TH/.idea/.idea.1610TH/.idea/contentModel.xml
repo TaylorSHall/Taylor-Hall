@@ -7,6 +7,9 @@
       <e p="1610TH.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Animation" t="Include">
+          <e p="UpdateAmin.cs" t="Include" />
+        </e>
         <e p="MouseEventScript" t="Include">
           <e p="MouseEventBehavior.cs" t="Include" />
         </e>
@@ -35,7 +38,9 @@
             <e p="CharacterMover.cs" t="Include" />
             <e p="Move.cs" t="Include" />
           </e>
-          <e p="NameID.cs" t="Include" />
+          <e p="NameID Intro" t="Include">
+            <e p="NameID.cs" t="Include" />
+          </e>
           <e p="Powerup" t="Include">
             <e p="MouseEventsBehavior.cs" t="Include" />
             <e p="Powerup.cs" t="Include" />
@@ -75,7 +80,6 @@
             </e>
             <e p="SwitchStatements.cs" t="Include" />
           </e>
-          <e p="UpdateAmin.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />
         </e>
       </e>
