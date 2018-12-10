@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PowerupID : MonoBehaviour
 {
-	public NameID Health, Money, Ammo, Swag;
+	public NameID Health, Money, Ammo, Swag, Key;
 
 	public void Update()
 	{
@@ -26,6 +26,11 @@ public class PowerupID : MonoBehaviour
 		if(Swag)
 		{
 			print("Picked up Swag");
+		}
+
+		if (Key)
+		{
+			print("Picked up Key");
 		}
 	}
 }

@@ -7,9 +7,9 @@ public class Move : MonoBehaviour
 	public CharacterController Character;
 	
 	public float Speed;
-	public Vector3 MoveSpeed;
+	public Vector2 MoveSpeed;
 	public float JumpSpeed;
-	public Vector3 RotateSpeed;
+	public bool facingRight;
 	
 	// Update is called once per frame
 	private void Update()
@@ -28,7 +28,7 @@ public class Move : MonoBehaviour
 		//	FlipPlayer ();
 		//}
 		
-		//facingright = 
+		//facingRight = 
 		
 		Character.Move(MoveSpeed);
 	}
