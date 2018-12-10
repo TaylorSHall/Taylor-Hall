@@ -18,12 +18,12 @@
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="7" />
-          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.17" value="5" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="3" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,12 +38,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3450" />
+          <entry key="cs" value="3540" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3450" />
+          <entry key="C#" value="3540" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -52,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+              <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
               <folding>
                 <marker date="1542349479005" expanded="false" signature="6:40" ph="..." />
                 <marker date="1542349479005" expanded="true" signature="78:423" ph="{...}" />
@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <marker date="1543287761132" expanded="false" signature="6:78" ph="..." />
                 <marker date="1543287761132" expanded="true" signature="123:1007" ph="{...}" />
@@ -163,16 +163,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="390">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
               <folding>
-                <marker date="1540243849005" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540243849005" expanded="true" signature="114:574" ph="{...}" />
-                <marker date="1540243849005" expanded="true" signature="320:572" ph="{...}" />
-                <marker date="1540243849005" expanded="true" signature="503:539" ph="{...}" />
+                <marker date="1544470629734" expanded="false" signature="6:78" ph="..." />
+                <marker date="1544470629734" expanded="true" signature="114:681" ph="{...}" />
+                <marker date="1544470629734" expanded="true" signature="320:679" ph="{...}" />
+                <marker date="1544470629734" expanded="true" signature="503:539" ph="{...}" />
+                <marker date="1544470629734" expanded="true" signature="543:644" ph="/* if (MoveSpeed &lt; 0.0f &amp;&amp; facingRight == false) ... */" />
               </folding>
             </state>
           </provider>
@@ -229,7 +230,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/UpdateImageValue.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Lava.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Status/Variables.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/New Folder/Loops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/GameStates.cs" />
@@ -241,6 +241,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/PrintNameRepeat.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs" />
       </list>
     </option>
   </component>
@@ -262,13 +263,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,11 +341,12 @@
       <workItem from="1543270795239" duration="386000" />
       <workItem from="1543287579509" duration="780000" />
       <workItem from="1543560614361" duration="429000" />
+      <workItem from="1544466131050" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31024000" />
+    <option name="totallyTimeSpent" value="32520000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,8 +359,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38299596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11578947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,10 +472,40 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/NameID.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/NameID.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Amin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/UpdateAmin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+          <folding>
+            <marker date="1542349479005" expanded="false" signature="6:40" ph="..." />
+            <marker date="1542349479005" expanded="true" signature="78:423" ph="{...}" />
+            <marker date="1542349479005" expanded="true" signature="181:227" ph="{...}" />
+            <marker date="1542349479005" expanded="true" signature="245:421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/List/ObjectCollection.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Amin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1540437022637" expanded="true" signature="6:78" ph="..." />
+            <marker date="1540437022637" expanded="true" signature="114:448" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="219:384" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="295:323" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="356:381" ph="{...}" />
+            <marker date="1540437022637" expanded="true" signature="439:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/EventRepeat/EventRepeat.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -514,30 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/UpdateAmin.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Switch and Enum/PowerupEnum.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <marker date="1540243849005" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540243849005" expanded="true" signature="114:574" ph="{...}" />
-            <marker date="1540243849005" expanded="true" signature="320:572" ph="{...}" />
-            <marker date="1540243849005" expanded="true" signature="503:539" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,7 +568,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding>
             <marker date="1543287761132" expanded="false" signature="6:78" ph="..." />
             <marker date="1543287761132" expanded="true" signature="123:1007" ph="{...}" />
@@ -568,33 +581,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/List/ObjectCollection.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Loops/Loops.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="390">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
-            <marker date="1540437022637" expanded="true" signature="6:78" ph="..." />
-            <marker date="1540437022637" expanded="true" signature="114:448" ph="{...}" />
-            <marker date="1540437022637" expanded="true" signature="219:384" ph="{...}" />
-            <marker date="1540437022637" expanded="true" signature="295:323" ph="{...}" />
-            <marker date="1540437022637" expanded="true" signature="356:381" ph="{...}" />
-            <marker date="1540437022637" expanded="true" signature="439:446" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/AI/BasicAI.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="68" lean-forward="true" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
-          <folding>
-            <marker date="1542349479005" expanded="false" signature="6:40" ph="..." />
-            <marker date="1542349479005" expanded="true" signature="78:423" ph="{...}" />
-            <marker date="1542349479005" expanded="true" signature="181:227" ph="{...}" />
-            <marker date="1542349479005" expanded="true" signature="245:421" ph="{...}" />
+            <marker date="1544470629734" expanded="false" signature="6:78" ph="..." />
+            <marker date="1544470629734" expanded="true" signature="114:681" ph="{...}" />
+            <marker date="1544470629734" expanded="true" signature="320:679" ph="{...}" />
+            <marker date="1544470629734" expanded="true" signature="503:539" ph="{...}" />
+            <marker date="1544470629734" expanded="true" signature="543:644" ph="/* if (MoveSpeed &lt; 0.0f &amp;&amp; facingRight == false) ... */" />
           </folding>
         </state>
       </provider>

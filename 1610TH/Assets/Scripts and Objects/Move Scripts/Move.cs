@@ -23,6 +23,13 @@ public class Move : MonoBehaviour
 			MoveSpeed.y = JumpSpeed;
 		}
 
+		//if (MoveSpeed < 0.0f && facingRight == false)
+		//{
+		//	FlipPlayer ();
+		//}
+		
+		//facingright = 
+		
 		Character.Move(MoveSpeed);
 	}
 }
