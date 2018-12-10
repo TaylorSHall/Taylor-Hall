@@ -52,7 +52,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
@@ -163,7 +163,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -269,7 +269,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-57" />
     <option name="y" value="-33" />
     <option name="width" value="1617" />
@@ -359,12 +359,12 @@
       <workItem from="1543270795239" duration="386000" />
       <workItem from="1543287579509" duration="780000" />
       <workItem from="1543560614361" duration="429000" />
-      <workItem from="1544466131050" duration="4015000" />
+      <workItem from="1544466131050" duration="4642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35039000" />
+    <option name="totallyTimeSpent" value="35666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,7 +376,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11578947" />
@@ -559,22 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <marker date="1543287761132" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543287761132" expanded="true" signature="123:1007" ph="{...}" />
-            <marker date="1543287761132" expanded="true" signature="394:451" ph="{...}" />
-            <marker date="1543287761132" expanded="true" signature="505:1005" ph="{...}" />
-            <marker date="1543287761132" expanded="true" signature="591:882" ph="{...}" />
-            <marker date="1543287761132" expanded="true" signature="663:746" ph="/* rotation.Set(0, Input.GetAxis(&quot;Horizontal&quot;), 0); ... */" />
-            <marker date="1543287761132" expanded="true" signature="836:874" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Powerup/PowerupID.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -654,6 +638,22 @@
             <marker date="1544473492100" expanded="true" signature="317:676" ph="{...}" />
             <marker date="1544473492100" expanded="true" signature="500:536" ph="{...}" />
             <marker date="1544473492100" expanded="true" signature="540:641" ph="/* if (MoveSpeed &lt; 0.0f &amp;&amp; facingRight == false) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts and Objects/Move Scripts/CharacterMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <marker date="1543287761132" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543287761132" expanded="true" signature="123:1007" ph="{...}" />
+            <marker date="1543287761132" expanded="true" signature="394:451" ph="{...}" />
+            <marker date="1543287761132" expanded="true" signature="505:1005" ph="{...}" />
+            <marker date="1543287761132" expanded="true" signature="591:882" ph="{...}" />
+            <marker date="1543287761132" expanded="true" signature="663:746" ph="/* rotation.Set(0, Input.GetAxis(&quot;Horizontal&quot;), 0); ... */" />
+            <marker date="1543287761132" expanded="true" signature="836:874" ph="{...}" />
           </folding>
         </state>
       </provider>
