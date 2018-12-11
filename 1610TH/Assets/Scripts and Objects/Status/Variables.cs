@@ -18,9 +18,7 @@ public class Variables : MonoBehaviour
 	public float Money;
 
 	public string PlayerName;
-	public string Team = "Wolves";
-
-	public Vector3 Location;
+	public GameObject Key;
 	
 	// Use this for initialization
 	void Start ()

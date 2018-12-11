@@ -4,6 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu]
 public class Powerup : ScriptableObject
+
 {
 	public FloatData Data; //outsideData is added to Data
 	
