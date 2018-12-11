@@ -75,9 +75,6 @@
             <e p="GameStates.cs" t="Include" />
             <e p="PowerupEnum.cs" t="Include" />
             <e p="PowerupStates.cs" t="Include" />
-            <e p="Sidescroller" t="Include">
-              <e p="NewBehaviourScript.cs" t="Include" />
-            </e>
             <e p="SwitchStatements.cs" t="Include" />
           </e>
           <e p="UpdateImageValue.cs" t="Include" />

@@ -198,7 +198,7 @@ Transform:
   m_LocalScale: {x: 5.1827, y: 5.1827, z: 5.1827}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &257061548
 GameObject:
@@ -285,7 +285,7 @@ Transform:
   m_LocalScale: {x: 5.1827, y: 5.1827, z: 5.1827}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &314790682
 GameObject:
@@ -595,7 +595,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &612671291
 GameObject:
@@ -682,7 +682,7 @@ Transform:
   m_LocalScale: {x: 5.1827, y: 5.1827, z: 5.1827}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &722172613
 GameObject:
@@ -801,7 +801,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &924430644
 GameObject:
@@ -1080,7 +1080,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1201043722
 GameObject:
@@ -1167,7 +1167,7 @@ Transform:
   m_LocalScale: {x: 27.14, y: 27.14, z: 27.14}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1290629607
 GameObject:
@@ -1416,7 +1416,7 @@ RectTransform:
   - {fileID: 1968123299}
   - {fileID: 1340184916}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1545,9 +1545,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Character: {fileID: 1599725018}
   Speed: 10
-  MoveSpeed: {x: 3, y: 0, z: 0}
+  MoveSpeed: {x: 3, y: 0}
   JumpSpeed: 3
-  RotateSpeed: {x: 0, y: 0, z: 0}
+  facingRight: 0
 --- !u!114 &1599725020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1613,8 +1613,7 @@ MonoBehaviour:
   Health: 1
   Money: 0
   PlayerName: 
-  Team: Wolves
-  Location: {x: 0, y: 35.4, z: -5.72}
+  Key: {fileID: 0}
 --- !u!114 &1599725023
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1836,7 +1835,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1879675285
 GameObject:
@@ -2030,7 +2029,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1968123298
 GameObject:
@@ -2241,5 +2240,5 @@ Transform:
   m_LocalScale: {x: 5.1827, y: 5.1827, z: 5.1827}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
